@@ -91,8 +91,7 @@ Once you have corrected for any JSLint errors found by the code linter, do the f
 In this task you will write a simple function to detect and remove duplicates from a task list.
 1. Open the `simple_function.html` file.
 2. View the live preview and test out what the page does.
-3. Load the associated JS file `js/tasks.js` in Brackets and check you undestand how it works. In particular you need to identify the function that gets called when the button is clicked.
-
+3. Load the associated JS file `js/tasks.js` in Brackets and check you undestand how it works. In pagit
 ### 4.1 Test Your Understanding
 
 1. Modify the function that is called when the button is clicked
